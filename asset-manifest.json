@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fivemin/static/css/main.383f8b0f.chunk.css",
+    "main.js": "/fivemin/static/js/main.0ee80734.chunk.js",
+    "main.js.map": "/fivemin/static/js/main.0ee80734.chunk.js.map",
+    "runtime-main.js": "/fivemin/static/js/runtime-main.460f901a.js",
+    "runtime-main.js.map": "/fivemin/static/js/runtime-main.460f901a.js.map",
+    "static/js/2.cd7cd9c1.chunk.js": "/fivemin/static/js/2.cd7cd9c1.chunk.js",
+    "static/js/2.cd7cd9c1.chunk.js.map": "/fivemin/static/js/2.cd7cd9c1.chunk.js.map",
+    "index.html": "/fivemin/index.html",
+    "precache-manifest.033f77193d709572515a2ac19a73b55d.js": "/fivemin/precache-manifest.033f77193d709572515a2ac19a73b55d.js",
+    "service-worker.js": "/fivemin/service-worker.js",
+    "static/css/main.383f8b0f.chunk.css.map": "/fivemin/static/css/main.383f8b0f.chunk.css.map",
+    "static/js/2.cd7cd9c1.chunk.js.LICENSE.txt": "/fivemin/static/js/2.cd7cd9c1.chunk.js.LICENSE.txt",
+    "static/media/wideskyad.png": "/fivemin/static/media/wideskyad.d012db18.png",
+    "static/media/wideskyad1.png": "/fivemin/static/media/wideskyad1.df42362d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460f901a.js",
+    "static/js/2.cd7cd9c1.chunk.js",
+    "static/css/main.383f8b0f.chunk.css",
+    "static/js/main.0ee80734.chunk.js"
+  ]
+}
